@@ -12,3 +12,4 @@ result = client.models.embed_content(
 )
 
 print(result)
+#testing
