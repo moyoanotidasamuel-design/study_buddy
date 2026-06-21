@@ -12,4 +12,4 @@ result = client.models.embed_content(
 )
 
 print(result)
-#testing check 445566
+#testing check 44556677
